@@ -104,7 +104,13 @@ Test execution results and identified issues will be updated as testing progress
 <p align="center">
   <img src="https://github.com/rafiqul233/sqa-lab/blob/master/Restora%20Jobs.png" />
 </p>
+<p align="center">
+  <img src="https://github.com/rafiqul233/-4Beats/blob/master/RJ1.png" />
+</p>
 
+<p align="center">
+  <img src="https://github.com/rafiqul233/-4Beats/blob/master/RJ2.png" />
+</p>
 
 
 # Test Case Works for Bikalpo Shop
