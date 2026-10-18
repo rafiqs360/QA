@@ -1,19 +1,19 @@
 ## Project_API_Testing report 01
-<h3><a href="https://newmanreport01.netlify.app/"> Click here to see the newman report </a></h3>
+<a href="https://newmanreport01.netlify.app/"><small>View Report</small></a>
 
 ## Project_API_Testing report 02
-<h3><a href="https://newmanreport02.netlify.app/"> Click here to see the newman report </a></h3>
+<a href="https://newmanreport02.netlify.app/"><small>View Report</small></a>
 
-## Project_performance_Testing report 
-<h3><a href="https://performancetestreport01.netlify.app/"> Click here to see the performance test report </a></h3>
+## Project_performance_Testing report
+<a href="https://performancetestreport01.netlify.app/"><small>View Report</small></a>
 
-# Importent Note of this Performance testing:
+## Importent Note of this Performance testing:
 Apache JMeter is a free, open-source performance testing tool built with Java.
 It supports load testing, performance testing, and test recording.
 JMeter provides listeners, assertions, and configuration elements to analyze test results.
 It supports command-line execution and HTML report generation.
 
-# Restaurant Jobs BD — Manual Testing
+## Restaurant Jobs BD — Manual Testing
 ## **Optimized Test Case Design for Fast-Paced Software Delivery**
 At Quick Tech IT, where fast-paced software development and rapid app/web delivery are essential, I designed a customized test case format to save time and improve testing efficiency. I also have experience writing test cases using the standard format, including the DailyShop project.
 
