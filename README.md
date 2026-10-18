@@ -66,6 +66,39 @@
      - Command for report from an existing result file
        - **jmeter -g "..\result_file" -o "..\report_folder"**
 
+# Restaurant Jobs BD — Manual Testing
+
+## 1. Project Overview
+
+Restaurant Jobs BD is a mobile application designed to connect job seekers with restaurant job opportunities. This project focuses on manual functional testing to evaluate the application's features and identify potential issues.
+
+The objective is to prepare test cases, verify application functionality, and document bugs found during testing.
+
+## 2. Testing Scope
+
+The testing scope covers the test scenarios documented in the test case spreadsheet, focusing on the following areas where applicable:
+
+- User Registration and Login
+- Job Search and Job Details
+- Job Application
+- User Profile Management
+- Job Provider and Job Management
+- Favourite Jobs
+- Notifications
+- Input Validation and Error Handling
+
+Testing is focused on functional behavior, expected results, and identifying potential defects in the application.
+
+## 3. Test Report
+
+Test cases for the Restaurant Jobs BD mobile application are documented in Google Sheets.
+
+The test case sheet is used to organize test scenarios, test steps, expected results, actual results, and execution status as applicable.
+
+**Test Case Report:** [View Test Cases](https://docs.google.com/spreadsheets/d/1ZmI0cT1nSYOpm4jwq08pj5yKesWgrRRjMqcsf2e-u30/edit?usp=sharing)
+
+Test execution results and identified issues will be updated as testing progresses.
+
 
 
 
