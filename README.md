@@ -13,6 +13,9 @@ It supports load testing, performance testing, and test recording.
 JMeter provides listeners, assertions, and configuration elements to analyze test results.
 It supports command-line execution and HTML report generation.
 
+Optimized Test Case Design for Fast-Paced Software Delivery:
+At Quick Tech IT, where fast-paced software development and rapid app/web delivery are essential, I designed a customized test case format to save time and improve testing efficiency. I also have experience writing test cases using the standard format, including the DailyShop project.
+
 # Restaurant Jobs BD — Manual Testing
 
 ## 1. Project Overview
