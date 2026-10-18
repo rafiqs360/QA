@@ -8,63 +8,10 @@
 <h3><a href="https://performancetestreport01.netlify.app/"> Click here to see the performance test report </a></h3>
 
 # Importent Note
-
-1. What is **JMeter**?
-   - Performance test application
-   - Build using Java
-   - Free & Open Source
-   - Recording
-   - CLI
-   - Reports
-   
-2. Step of create Jmeter Test
-   - Start JMeter
-   - Create a TestPlan
-   - Create a Thread Group (Users)
-   - Add a Sampler (Http)
-   - Add Listeners
-   - Run the Test
-   
-3. JMeter **Listener** is a component that shows the results of the samples. 
-   The results can be shown in a tree, tables, graphs or simply written to a log file. 
-   Listeners provide pictorial representation of data gathered by JMeter about those test cases as a sampler component of JMeter is executed. 
-   Few most used listener 
-   1. View Results in Table
-   2. View Results Tree
-   3. Aggregate Report
-   4. Graph Results
-   5. Summary Report
-   6. Simple Data Writer
-   
- 4. JMeter **Assertions** are the component of a test that allow a user to validate that the response JMeter receives matches expected criteria. Few most used assertions
-    1. Response Assertion
-    2. Duration Assertion
-    3. Size Assertion
-    4. HTML Assertion
-    5. XML JSON Assertion
-    6. XPATH Assertion
-    
- 5. Few most used JMeter Config Elements
-    - User Defined Variables
-    - HTTP Authorization Manager
-    - HTTP Cache Manager
-    - HTTP Cookie Manager
-    - Login Config Element
-    - CSV Data Set Config
-    - FTP Request Defaults
-    - HTTP Request Defaults
-    - HTTP Header Manager
-    
- 6.  Run JMeter test from command line
-     - Open CMD
-     - Command for result
-       - **jmeter -n -t "..\test_file.jmx" -l "..\result_file"**
-       
-     - Command for result & report
-       - **jmeter -n -t "..\test_file.jmx" -l "..\result_file" -e -o "..\report_folder"**
-       
-     - Command for report from an existing result file
-       - **jmeter -g "..\result_file" -o "..\report_folder"**
+Apache JMeter is a free, open-source performance testing tool built with Java.
+It supports load testing, performance testing, and test recording.
+JMeter provides listeners, assertions, and configuration elements to analyze test results.
+It supports command-line execution and HTML report generation.
 
 # Restaurant Jobs BD — Manual Testing
 
@@ -151,9 +98,6 @@ Some of the samples of the Bug Report.
    <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/4.png" />
 </p>
 
-
-
-
 ![coverphoto](https://raw.githubusercontent.com/rafiqul-islam23344/-4Beats/main/coverphoto.png)
 
 I am passionate about ensuring software quality through **Manual, Automation, API, and Performance Testing**. With a strong foundation in SDLC, STLC, and Agile methodologies, I aim to streamline and enhance the QA process effectively.
@@ -229,22 +173,10 @@ I am passionate about ensuring software quality through **Manual, Automation, AP
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqul-islam23344&layout=compact&theme=light&card_width=445&langs_count=10)
 
-
-
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=rafiqul-islam23344&theme=flat&no-bg=true&margin-w=15)
 
-
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&bg_color=30,ADD8E6,87CEFA)
-
-
-
-
-
-
-
- 
 ---  
-
 ## 📊 Total Commits  
 ![GitHub Commit Count](https://komarev.com/ghpvc/?username=rafiqul-islam23344&label=Total+Commits&color=0e75b6&style=flat)  
 
