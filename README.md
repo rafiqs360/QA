@@ -27,11 +27,11 @@ The objective is to prepare test cases, verify application functionality, and do
 
 The testing scope covers the test scenarios documented in the test case spreadsheet, focusing on the following areas where applicable:
 
-- User Registration and Login
+- User Registration & Login for Job Provider and Job Seeker 
 - Job Search and Job Details
 - Job Application
 - User Profile Management
-- Job Provider and Job Management
+
 - Favourite Jobs
 - Notifications
 - Input Validation and Error Handling
