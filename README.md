@@ -213,10 +213,10 @@ Explore my repositories for project details, test cases, screenshots, and report
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqul233&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafiqul233&theme=flat&no-frame=true&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiqul233&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" width="100%" />
 </p>
 
 ---
