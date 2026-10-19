@@ -85,10 +85,9 @@ Some of the samples of the Bug Report.
 ###Test Cases
 
 Some of the samples of the Test Cases.
-
 <p align="center">
-  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/1.png" />
-    <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/2.png" />
+  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/1.png" width="48%" />
+  <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/2.png" width="48%" />
 </p>
 
 ### Bug Report
