@@ -44,6 +44,23 @@ Test cases for the Restaurant Jobs BD mobile application are documented in Googl
   <img src="https://github.com/rafiqul233/-4Beats/blob/master/RJ2.png" />
 </p>
 
+## Daily Shopping Web
+## 1. Project Overview
+Daily Shopping is a simple app that helps users manage their daily shopping easily. It makes shopping more organized and saves time.
+
+## 2. Test Scope
+Testing focuses on the main features of the app, including user interface, product details, shopping list, and basic functionality.
+
+## 3. Test Report
+The app was tested to check its main features and usability. Testing helps identify bugs and ensure the app works as expected. Any issues found should be fixed and retested.
+
+<p align="center">
+  <img src="https://github.com/rafiqul233/-4Beats/blob/master/DailyShopping.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/rafiqul233/-4Beats/blob/master/DailyShopping.png" />
+</p>
 
 ### Test Case Works for Bikalpo Shop
 
