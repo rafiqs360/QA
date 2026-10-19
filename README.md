@@ -216,11 +216,5 @@ Explore my repositories for project details, test cases, screenshots, and report
 ## 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiqul233&theme=github-compact&hide_border=true" alt="GitHub Contribution Activity" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <i>💡 Always learning, always testing, always improving software quality. 🚀</i>
+  <img src="https://ghchart.rshah.org/rafiqul233" alt="GitHub Contribution Chart" width="100%" />
 </p>
