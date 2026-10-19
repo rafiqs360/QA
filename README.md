@@ -72,7 +72,7 @@ Some of the samples of the Test Cases.
   <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/Bikalpo%20testcase.png" />
 </p>
 
-## Bug Report
+### Bug Report
 
 Some of the samples of the Bug Report.
 
@@ -91,7 +91,7 @@ Some of the samples of the Test Cases.
     <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/2.png" />
 </p>
 
-###Bug Report
+### Bug Report
 
 Some of the samples of the Bug Report.
 
@@ -104,7 +104,7 @@ Some of the samples of the Bug Report.
 
 I am passionate about ensuring software quality through **Manual, Automation, API, and Performance Testing**. With a strong foundation in SDLC, STLC, and Agile methodologies, I aim to streamline and enhance the QA process effectively.
 
-## 🔍 Technical Expertise
+### 🔍 Technical Expertise
 
 ### ✅ **Manual Testing**
 - 📝 Test Plan, Test Scenarios, Test Case Writing
@@ -163,14 +163,14 @@ I am passionate about ensuring software quality through **Manual, Automation, AP
 </p>
 
   
-## 📫 Connect with Me
+### 📫 Connect with Me
 - 🌍 **GitHub:** [github.com/rafiqul-islam23344](https://github.com/rafiqul-islam23344)
 - 💼 **LinkedIn:** [linkedin.com/in/rafiqulislam233](https://www.linkedin.com/in/rafiqulislam233/)
 - 📧 **Email:** rafiqul.islam01408@gmail.com
 
 💡 Always eager to learn and improve software quality! 🚀
 
-## 🔥 My GitHub Streak  
+### 🔥 My GitHub Streak  
 [![GitHub Streak](https://streak-stats.demolab.com?user=rafiqul-islam23344&theme=light-blue)  ](https://camo.githubusercontent.com/a673ba1e55ce9f93a803cab922f34a950a531c66825060881cbaa7ab206b2e45/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d7261666971756c2d69736c616d3233333434267468656d653d6c696768742d626c7565)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqul-islam23344&layout=compact&theme=light&card_width=445&langs_count=10)
@@ -179,10 +179,10 @@ I am passionate about ensuring software quality through **Manual, Automation, AP
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&bg_color=30,ADD8E6,87CEFA)
 ---  
-## 📊 Total Commits  
+### 📊 Total Commits  
 ![GitHub Commit Count](https://komarev.com/ghpvc/?username=rafiqul-islam23344&label=Total+Commits&color=0e75b6&style=flat)  
 
-## 📊 My GitHub Stats
+### 📊 My GitHub Stats
 ![Rafiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiqul-islam23344&show_icons=true&bg_color=ADD8E6&title_color=005f9e&text_color=002244&icon_color=005f9e)
 
 
