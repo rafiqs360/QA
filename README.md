@@ -18,36 +18,19 @@ It supports command-line execution and HTML report generation.
 At Quick Tech IT, where fast-paced software development and rapid app/web delivery are essential, I designed a customized test case format to save time and improve testing efficiency. I also have experience writing test cases using the standard format, including the DailyShop project.
 
 ### 1. Project Overview
-
 Restaurant Jobs BD is a mobile application designed to connect job seekers with restaurant job opportunities. This project focuses on manual functional testing to evaluate the application's features and identify potential issues.
-
 The objective is to prepare test cases, verify application functionality, and document bugs found during testing.
-
 ### 2. Testing Scope
-
-The testing scope covers the test scenarios documented in the test case spreadsheet, focusing on the following areas where applicable:
-
-- User Registration & Login for Job Provider and Job Seeker 
+- User Registration & Login for Job Provider and Job Seeker & Admin panel
 - Job Search and Job Details
-- Job Application
+- Job Application,Job Post
 - User Profile Management
-
 - Favourite Jobs
 - Notifications
-- Input Validation and Error Handling
-
-Testing is focused on functional behavior, expected results, and identifying potential defects in the application.
-
+  
 ### 3. Test Report
-
 Test cases for the Restaurant Jobs BD mobile application are documented in Google Sheets.
-
-The test case sheet is used to organize test scenarios, test steps, expected results, actual results, and execution status as applicable.
-
 **Test Case Report:** [View Test Cases](https://docs.google.com/spreadsheets/d/1ZmI0cT1nSYOpm4jwq08pj5yKesWgrRRjMqcsf2e-u30/edit?usp=sharing)
-
-Test execution results and identified issues will be updated as testing progresses.
-
 ### Test Case Screenshot:
 
 <p align="center">
