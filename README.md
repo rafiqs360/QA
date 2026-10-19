@@ -203,13 +203,6 @@ Explore my repositories for project details, test cases, screenshots, and report
 - 📧 Email: rafiqul.islam01408@gmail.com
 
 ---
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rafiqul-islam23344&theme=light-blue" alt="GitHub Streak Stats"/>
-</p>
-
 ## 📊 GitHub Statistics
 
 <p align="center">
