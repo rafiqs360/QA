@@ -59,7 +59,7 @@ The app was tested to check its main features and usability. Testing helps ident
 </p>
 
 <p align="center">
-  <img src="https://github.com/rafiqul233/-4Beats/blob/master/DailyShopping.png" />
+  <img src="https://github.com/rafiqul233/-4Beats/blob/master/d2.png" />
 </p>
 
 ### Test Case Works for Bikalpo Shop
