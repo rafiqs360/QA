@@ -82,7 +82,7 @@ Some of the samples of the Bug Report.
 
 ### Volume Amplifier-App | Functional & Manual Testing
 
-###Test Cases
+### Test Cases
 
 Some of the samples of the Test Cases.
 <p align="center">
