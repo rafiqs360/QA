@@ -202,15 +202,11 @@ Explore my repositories for project details, test cases, screenshots, and report
 - 📧 Email: rafiqul.islam01408@gmail.com
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafiqul233&show_icons=true&theme=default&hide_border=true" alt="GitHub Statistics" />
-</p>
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqul233&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafiqul233&show_icons=true&theme=default&hide_border=true" width="49%" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqul233&layout=compact&theme=default&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
 </p>
 
 ## 📈 GitHub Contribution Activity
