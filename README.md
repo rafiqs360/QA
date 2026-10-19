@@ -62,9 +62,9 @@ The app was tested to check its main features and usability. Testing helps ident
   <img src="https://github.com/rafiqul233/-4Beats/blob/master/d2.png" />
 </p>
 
-### Test Case Works for Bikalpo Shop
+## Test Case Works for Bikalpo Shop
 
-### Test Cases
+## Test Cases
 
 Some of the samples of the Test Cases.
 
@@ -72,7 +72,7 @@ Some of the samples of the Test Cases.
   <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/Bikalpo%20testcase.png" />
 </p>
 
-### Bug Report
+## Bug Report
 
 Some of the samples of the Bug Report.
 
@@ -80,9 +80,9 @@ Some of the samples of the Bug Report.
   <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/Bikalpo%20Bug.png" />
 </p>
 
-# Test Case Works for Volume Amplifier 
+###Test Case Works for Volume Amplifier 
 
-### Test Cases
+###Test Cases
 
 Some of the samples of the Test Cases.
 
@@ -91,7 +91,7 @@ Some of the samples of the Test Cases.
     <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/2.png" />
 </p>
 
-### Bug Report
+###Bug Report
 
 Some of the samples of the Bug Report.
 
