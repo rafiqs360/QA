@@ -202,20 +202,21 @@ Explore my repositories for project details, test cases, screenshots, and report
 - 📧 Email: rafiqul.islam01408@gmail.com
 
 ---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafiqul-islam23344&show_icons=true&theme=default&hide_border=true" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafiqul233&show_icons=true&theme=default&hide_border=true" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqul-islam23344&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqul233&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafiqul-islam23344&theme=flat&no-frame=true&margin-w=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rafiqul233&theme=flat&no-frame=true&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
