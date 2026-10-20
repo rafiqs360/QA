@@ -99,7 +99,11 @@ Some of the samples of the Bug Report.
   <img src="https://github.com/rafiqul233/-4Beats/blob/master/4.png" width="48%" />
 </p>
 
+
+
+
 ![coverphoto](https://github.com/rafiqul233/-4Beats/blob/master/coverphoto1.png)
+
 
 # 👋 Hi, I'm Rafiqul Islam
 
