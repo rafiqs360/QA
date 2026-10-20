@@ -102,6 +102,9 @@ Some of the samples of the Bug Report.
 
 <br><br>
 
+
+---
+
 ![coverphoto](https://github.com/rafiqul233/-4Beats/blob/master/coverphoto1.png)
 
 
