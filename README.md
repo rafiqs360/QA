@@ -43,7 +43,19 @@ Test cases for the Restaurant Jobs BD mobile application are documented in Googl
 <p align="center">
   <img src="https://github.com/rafiqul233/-4Beats/blob/master/RJ2.png" />
 </p>
+# 🍽️ Restora – Restaurant App
 
+Restora is a modern restaurant application designed to provide a smooth and convenient food ordering experience with an attractive interface and user-friendly design.
+
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="restora1.jpeg" width="19%" alt="App Screenshot 1" />
+  <img src="restora2.jpeg" width="19%" alt="App Screenshot 2" />
+  <img src="restora3.jpeg" width="19%" alt="App Screenshot 3" />
+  <img src="restora4.jpeg" width="19%" alt="App Screenshot 4" />
+  <img src="restora5.jpeg" width="19%" alt="App Screenshot 5" />
+</p>
 ### Daily Shopping Web-Manual Testing
 ### 1. Project Overview
 Daily Shopping is a simple app that helps users manage their daily shopping easily. It makes shopping more organized and saves time.
