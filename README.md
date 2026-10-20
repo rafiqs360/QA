@@ -44,7 +44,7 @@ Test cases for the Restaurant Jobs BD mobile application are documented in Googl
   <img src="https://github.com/rafiqul233/-4Beats/blob/master/RJ2.png" />
 </p>
 # 🍽️ Restora Jobs BD – Restaurant App
-RestoraJobsBD is a simple and modern restaurant app for easy food ordering.
+Restora Jobs BD is a simple and modern restaurant app for easy food ordering.
 
 ## 📱 App Screenshots
 
@@ -55,6 +55,11 @@ RestoraJobsBD is a simple and modern restaurant app for easy food ordering.
   <img src="https://raw.githubusercontent.com/rafiqul233/-4Beats/master/restora4.jpeg" width="18%" alt="App Screenshot 4" />
   <img src="https://raw.githubusercontent.com/rafiqul233/-4Beats/master/restora5.jpeg" width="18%" alt="App Screenshot 5" />
 </p>
+### Restora Jobs BD Admin Panel
+
+![Restora Admin](https://raw.githubusercontent.com/rafiqul233/-4Beats/master/restoraAdmin.png)
+
+
 ### Daily Shopping Web-Manual Testing
 ### 1. Project Overview
 Daily Shopping is a simple app that helps users manage their daily shopping easily. It makes shopping more organized and saves time.
