@@ -43,8 +43,8 @@ Test cases for the Restaurant Jobs BD mobile application are documented in Googl
 <p align="center">
   <img src="https://github.com/rafiqul233/-4Beats/blob/master/RJ2.png" />
 </p>
-🍽️ Restora Jobs BD – Restaurant App
-Restora Jobs BD is a simple and modern restaurant app for easy food ordering.
+🍽️ Restora Jobs BD –App
+Restora Jobs BD is a simple and modern app for easy restora job posting & job seeking.
 
 ## 📱 App Screenshots
 
