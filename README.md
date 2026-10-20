@@ -13,7 +13,7 @@ It supports load testing, performance testing, and test recording.
 JMeter provides listeners, assertions, and configuration elements to analyze test results.
 It supports command-line execution and HTML report generation.
 
-### Restaurant Jobs BD-App/Web(Admin) | Functional & Manual Testing
+### Restaurant Jobs BD-App/Web(Admin) | Manual Testing
 #### **<ins>**Optimized Test Case Design for Fast-Paced Software Delivery**</ins>**
 At Quick Tech IT, where fast-paced software development and rapid app/web delivery are essential, I designed a customized test case format to save time and improve testing efficiency. I also have experience writing test cases using the standard format, including the DailyShop project.
 
@@ -62,7 +62,7 @@ The app was tested to check its main features and usability. Testing helps ident
   <img src="https://github.com/rafiqul233/-4Beats/blob/master/d2.png" />
 </p>
 
-### Bikalpo Shop-Web | Functional & Manual Testing
+### Bikalpo Shop-Web | Manual Testing
 
 ### Test Cases
 
@@ -80,7 +80,7 @@ Some of the samples of the Bug Report.
   <img src="https://github.com/rafiqul-islam23344/-4Beats/blob/master/Bikalpo%20Bug.png" />
 </p>
 
-### Volume Amplifier-App | Functional & Manual Testing
+### Volume Amplifier-App | Manual Testing
 
 ### Test Cases
 
