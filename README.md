@@ -123,7 +123,7 @@ Some of the samples of the Bug Report.
 
 ---
 
-![coverphoto](https://github.com/rafiqul233/-4Beats/blob/master/coverphoto1.png)
+![coverphoto](https://github.com/rafiqs360/rafiqul233/blob/main/Rafiqul_Islam_banner_100kb.jpg)
 
 
 # 👋 Hi, I'm Rafiqul Islam
